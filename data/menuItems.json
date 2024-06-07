@@ -1,0 +1,156 @@
+{
+    "Shaved Snow": [
+      {
+        "name": "Strawberry",
+        "prices": {
+          "Medium": 8900,
+          "Large": 13000,
+          "King": 18900
+        },
+        "image": "images/strawberrySnow.jpg"
+      },
+      {
+        "name": "Mango",
+        "prices": {
+          "Medium": 8900,
+          "Large": 13000,
+          "King": 18900
+        },
+        "image": "images/mangoSnow.jpg"
+      },
+      {
+        "name": "Mixed Fruits",
+        "prices": {
+          "Large": 13000,
+          "King": 18900
+        },
+        "image": "images/mixedFruitSnow.jpg"
+      },
+      {
+        "name": "Matcha",
+        "prices": {
+          "Medium": 8900,
+          "Large": 13000,
+          "King": 18900
+        },
+        "image": "images/matchaSnow.jpg"
+      },
+      {
+        "name": "Chocolate",
+        "prices": {
+          "Large": 13000,
+          "King": 18900
+        }
+      },
+      {
+        "name": "Oreo",
+        "prices": {
+          "Medium": 8900,
+          "Large": 13000,
+          "King": 18900
+        }
+      },
+      {
+        "name": "Grape",
+        "prices": {
+          "Medium": 8900,
+          "Large": 13000,
+          "King": 18900
+        }
+      },
+      {
+        "name": "Melon",
+        "prices": {
+          "M": 8900,
+          "Large": 13000,
+          "King": 18900
+        }
+      }
+    ],
+    "Takoyaki": [
+      {
+        "name": "Original Takoyaki",
+        "prices": {
+          "Single": 9900
+        }
+      },
+      {
+        "name": "Mustard Takoyaki",
+        "prices": {
+          "Single": 9900
+        }
+      },
+      {
+        "name": "Seaweed Takoyaki",
+        "prices": {
+          "Single": 9900
+        }
+      },
+      {
+        "name": "Spicy Takoyaki",
+        "prices": {
+          "Single": 9900
+        }
+      },
+      {
+        "name": "Wasabi Takoyaki",
+        "prices": {
+          "Single": 9900
+        }
+      }
+    ],
+    "Drinks": [
+      {
+        "name": "Lemonade",
+        "prices": {
+          "Single": 7500
+        },
+        "image": "images/lemonade.jpg"
+      },
+      {
+        "name": "Mango Ade",
+        "prices": {
+          "Single": 7500
+        },
+        "image": "images/lemonade.jpg"
+      },
+      {
+        "name": "Rose Ade",
+        "prices": {
+          "Single": 7500
+        },
+        "image": "images/roseAde.jpg"
+      }
+    ],
+    "Waffle": [
+      {
+        "name": "Strawberry & Blueberry",
+        "prices": {
+          "Single": 14900
+        },
+        "image": "images/strawberryBlueberryWaffle.jpg"
+      },
+      {
+        "name": "Strawberry & Banana",
+        "prices": {
+          "Single": 14900
+        },
+        "image": "images/strawberryBananaWaffle.jpg"
+      },
+      {
+        "name": "Strawberry",
+        "prices": {
+          "Single": 12900
+        },
+        "image": "images/strawberryWaffle.jpg"
+      },
+      {
+        "name": "Banana",
+        "prices": {
+          "Single": 12900
+        },
+        "image": "images/bananaWaffle.jpg"
+      }
+    ]
+  }
+  

@@ -2,12 +2,37 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+@layer base {
+  @font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/fonts/PublicSans-Italic-VariableFont_wght.ttf) format('truetype');
+  }
+
+  @font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/fonts/PublicSans-Italic-VariableFont_wght.ttf) format('truetype');
+  }
 }
 
+:root {
+  --bg-main: white;
+  --pink: #f9e2e7;
+  --light-grey: #f7f7f8;
+   /* #ffb5ee; */
+  /* f9e2e7 */
+  /* --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255; */
+}
+
+
+/* 
 @media (prefers-color-scheme: dark) {
   :root {
     --foreground-rgb: 255, 255, 255;
@@ -30,4 +55,4 @@ body {
   .text-balance {
     text-wrap: balance;
   }
-}
+} */
